@@ -7,12 +7,12 @@ Generates a random D&D NPC with a ludicrous amount of detail. Height, weight, ag
 - Autognome ✔
 - Bugbear ✔
 - Centaur ✔
-- Changling
+- Changling ✔
 - Dragonborn ✔
 - Dwarf ✔
 - Elf ✔ (Partially)
 - Fairy ✔
-- Firbolg
+- Firbolg ✔
 - Genasi ✔
 - Giff
 - Gith

@@ -105,6 +105,23 @@
         ]
     },
     {
+        "name": "changeling",
+        "matures": 18,
+        "dies": 73,
+        "subraces": [
+            {
+                "name": "changeling",
+                "baseHgt": 61,
+                "hgtMod": "2d4",
+                "baseWgt": 115,
+                "wgtMod": "2d4",
+                "eyeColors": ["colorless"],
+                "hairColors": ["silver-white"],
+                "skinColors": ["pale"]
+            }
+        ]
+    },
+    {
         "name": "dragonborn",
         "matures": 15,
         "dies": 80,
@@ -369,6 +386,23 @@
                 "eyeColors": ["golden", "silver", "black", "green", "hazel", "copper", "blue with golden flecks", "green with golden flecks", "blue", "red", "sky blue", "lilac", "pink", "silver", "amber", "rose", "black, with golden irises", "brilliant green", "yellow", "orange", "aqua"],
                 "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "green", "blue"],
                 "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "copper", "bronze", "bluish-white", "brilliant green", "yellow", "orange", "aqua", "charcoal", "gray", "reddish gray", "greenish gray", "bluish gray", "pinkish gray", "yellowish gray", "shimmering, multicolored"]
+            }
+        ]
+    },
+    {
+        "name": "firbolg",
+        "matures": 30,
+        "dies": 500,
+        "subraces": [
+            {
+                "name": "firbolg",
+                "baseHgt": 74,
+                "hgtMod": "2d12",
+                "baseWgt": 175,
+                "wgtMod": "2d6",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel", "blue", "green", "gray"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white"],
+                "skinColors": ["bluish gray"]
             }
         ]
     },
