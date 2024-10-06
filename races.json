@@ -1,0 +1,422 @@
+[
+    {
+        "name": "aarakocra",
+        "matures": 3,
+        "dies": 30,
+        "subraces": [
+            {
+                "name": "aarakocra",
+                "baseHgt": 52,
+                "hgtMod": "1d6",
+                "baseWgt": 90,
+                "wgtMod": "1d6",
+                "eyeColors": ["yellow"],
+                "hairColors": ["white"],
+                "skinColors": ["pink"]
+            }
+        ]
+    },
+    {
+        "name": "aasimar",
+        "matures": 18,
+        "dies": 160,
+        "subraces": [
+            {
+                "name": "protector",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel", "blue", "green", "gray"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate"]
+            },
+            {
+                "name": "scourge",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel", "blue", "green", "gray"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate"]
+            },
+            {
+                "name": "fallen",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel", "blue", "green", "gray"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate"]
+            }
+        ]
+    },
+    {
+        "name": "autognome",
+        "matures": 0,
+        "dies": 500,
+        "subraces": [
+            {
+                "name": "autognome",
+                "baseHgt": 31,
+                "hgtMod": "2d4",
+                "baseWgt": 1,
+                "wgtMod": "1d1",
+                "eyeColors": ["varies too wildly"],
+                "hairColors": ["none"],
+                "skinColors": ["none"]
+            }
+        ]
+    },
+    {
+        "name": "bugbear",
+        "matures": 16,
+        "dies": 80,
+        "subraces": [
+            {
+                "name": "bugbear",
+                "baseHgt": 72,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["yellow"],
+                "hairColors": ["brown"],
+                "skinColors": ["fair"]
+            }
+        ]
+    },
+    {
+        "name": "centaur",
+        "matures": 18,
+        "dies": 73,
+        "subraces": [
+            {
+                "name": "centaur",
+                "baseHgt": 72,
+                "hgtMod": "1d10",
+                "baseWgt": 600,
+                "wgtMod": "2d12",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel", "blue", "green", "gray"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate"]
+            }
+        ]
+    },
+    {
+        "name": "dragonborn",
+        "matures": 15,
+        "dies": 80,
+        "subraces": [
+            {
+                "name": "black",
+                "baseHgt": 66,
+                "hgtMod": "2d8",
+                "baseWgt": 175,
+                "wgtMod": "2d6",
+                "eyeColors": ["red", "golden"],
+                "hairColors": ["none"],
+                "skinColors": ["black"]
+            },
+            {
+                "name": "blue",
+                "baseHgt": 66,
+                "hgtMod": "2d8",
+                "baseWgt": 175,
+                "wgtMod": "2d6",
+                "eyeColors": ["red", "golden"],
+                "hairColors": ["none"],
+                "skinColors": ["blue"]
+            },
+            {
+                "name": "green",
+                "baseHgt": 66,
+                "hgtMod": "2d8",
+                "baseWgt": 175,
+                "wgtMod": "2d6",
+                "eyeColors": ["red", "golden"],
+                "hairColors": ["none"],
+                "skinColors": ["green"]
+            },
+            {
+                "name": "red",
+                "baseHgt": 66,
+                "hgtMod": "2d8",
+                "baseWgt": 175,
+                "wgtMod": "2d6",
+                "eyeColors": ["red", "golden"],
+                "hairColors": ["none"],
+                "skinColors": ["red"]
+            },
+            {
+                "name": "white",
+                "baseHgt": 66,
+                "hgtMod": "2d8",
+                "baseWgt": 175,
+                "wgtMod": "2d6",
+                "eyeColors": ["red", "golden"],
+                "hairColors": ["none"],
+                "skinColors": ["white"]
+            },
+            {
+                "name": "amethyst",
+                "baseHgt": 66,
+                "hgtMod": "2d8",
+                "baseWgt": 175,
+                "wgtMod": "2d6",
+                "eyeColors": ["red", "golden"],
+                "hairColors": ["none"],
+                "skinColors": ["amethyst"]
+            },
+            {
+                "name": "crystal",
+                "baseHgt": 66,
+                "hgtMod": "2d8",
+                "baseWgt": 175,
+                "wgtMod": "2d6",
+                "eyeColors": ["red", "golden"],
+                "hairColors": ["none"],
+                "skinColors": ["crystal"]
+            },
+            {
+                "name": "emerald",
+                "baseHgt": 66,
+                "hgtMod": "2d8",
+                "baseWgt": 175,
+                "wgtMod": "2d6",
+                "eyeColors": ["red", "golden"],
+                "hairColors": ["none"],
+                "skinColors": ["emerald"]
+            },
+            {
+                "name": "sapphire",
+                "baseHgt": 66,
+                "hgtMod": "2d8",
+                "baseWgt": 175,
+                "wgtMod": "2d6",
+                "eyeColors": ["red", "golden"],
+                "hairColors": ["none"],
+                "skinColors": ["sapphire"]
+            },
+            {
+                "name": "topaz",
+                "baseHgt": 66,
+                "hgtMod": "2d8",
+                "baseWgt": 175,
+                "wgtMod": "2d6",
+                "eyeColors": ["red", "golden"],
+                "hairColors": ["none"],
+                "skinColors": ["topaz"]
+            },
+            {
+                "name": "brass",
+                "baseHgt": 66,
+                "hgtMod": "2d8",
+                "baseWgt": 175,
+                "wgtMod": "2d6",
+                "eyeColors": ["red", "golden"],
+                "hairColors": ["none"],
+                "skinColors": ["brass"]
+            },
+            {
+                "name": "bronze",
+                "baseHgt": 66,
+                "hgtMod": "2d8",
+                "baseWgt": 175,
+                "wgtMod": "2d6",
+                "eyeColors": ["red", "golden"],
+                "hairColors": ["none"],
+                "skinColors": ["bronze"]
+            },
+            {
+                "name": "copper",
+                "baseHgt": 66,
+                "hgtMod": "2d8",
+                "baseWgt": 175,
+                "wgtMod": "2d6",
+                "eyeColors": ["red", "golden"],
+                "hairColors": ["none"],
+                "skinColors": ["copper"]
+            },
+            {
+                "name": "gold",
+                "baseHgt": 66,
+                "hgtMod": "2d8",
+                "baseWgt": 175,
+                "wgtMod": "2d6",
+                "eyeColors": ["red", "golden"],
+                "hairColors": ["none"],
+                "skinColors": ["gold"]
+            },
+            {
+                "name": "silver",
+                "baseHgt": 66,
+                "hgtMod": "2d8",
+                "baseWgt": 175,
+                "wgtMod": "2d6",
+                "eyeColors": ["red", "golden"],
+                "hairColors": ["none"],
+                "skinColors": ["silver"]
+            }
+        ]
+    },
+    {
+        "name": "dwarf",
+        "matures": 18,
+        "dies": 350,
+        "subraces": [
+            {
+                "name": "hill",
+                "baseHgt": 44,
+                "hgtMod": "2d4",
+                "baseWgt": 115,
+                "wgtMod": "2d6",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel", "blue", "green", "gray"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate"]
+            },
+            {
+                "name": "mountain",
+                "baseHgt": 48,
+                "hgtMod": "2d4",
+                "baseWgt": 130,
+                "wgtMod": "2d6",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel", "blue", "green", "gray"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate"]
+            },
+            {
+                "name": "gray",
+                "baseHgt": 44,
+                "hgtMod": "2d4",
+                "baseWgt": 115,
+                "wgtMod": "2d6",
+                "eyeColors": ["black"],
+                "hairColors": ["gray"],
+                "skinColors": ["ashen"]
+            }
+        ]
+    },
+    {
+        "name": "elf",
+        "matures": 18,
+        "dies": 750,
+        "subraces": [
+            {
+                "name": "high",
+                "baseHgt": 54,
+                "hgtMod": "2d10",
+                "baseWgt": 90,
+                "wgtMod": "1d4",
+                "eyeColors": ["golden", "silver", "black", "green", "hazel", "copper", "blue with golden flecks", "green with golden flecks"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "green", "blue"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "copper", "bronze", "bluish-white"]
+            },
+            {
+                "name": "wood",
+                "baseHgt": 54,
+                "hgtMod": "2d10",
+                "baseWgt": 100,
+                "wgtMod": "1d4",
+                "eyeColors": ["brown", "hazel", "green", "blue"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "green", "blue"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "copper", "bronze", "bluish-white"]
+            },
+            {
+                "name": "dark",
+                "baseHgt": 53,
+                "hgtMod": "2d6",
+                "baseWgt": 75,
+                "wgtMod": "1d6",
+                "eyeColors": ["red", "sky blue", "lilac", "pink", "silver", "green", "brown", "amber", "rose"],
+                "hairColors": ["white"],
+                "skinColors": ["charcoal", "gray", "reddish gray", "greenish gray", "bluish gray", "pinkish gray", "yellowish gray"]
+            },
+            {
+                "name": "eladrin",
+                "baseHgt": 54,
+                "hgtMod": "2d10",
+                "baseWgt": 90,
+                "wgtMod": "1d4",
+                "eyeColors": ["brilliant green", "yellow", "orange", "aqua"],
+                "hairColors": ["brilliant green", "yellow", "orange", "aqua"],
+                "skinColors": ["brilliant green", "yellow", "orange", "aqua"]
+            },
+            {
+                "name": "astral elf",
+                "baseHgt": 54,
+                "hgtMod": "2d10",
+                "baseWgt": 90,
+                "wgtMod": "1d4",
+                "eyeColors": ["black, with golden irises"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "green", "blue"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "copper", "bronze", "bluish-white"]
+            }
+        ]
+    },
+    {
+        "name": "fairy",
+        "matures": 18,
+        "dies": 73,
+        "subraces": [
+            {
+                "name": "fairy",
+                "baseHgt": 31,
+                "hgtMod": "2d4",
+                "baseWgt": 35,
+                "wgtMod": "1d1",
+                "eyeColors": ["golden", "silver", "black", "green", "hazel", "copper", "blue with golden flecks", "green with golden flecks", "blue", "red", "sky blue", "lilac", "pink", "silver", "amber", "rose", "black, with golden irises", "brilliant green", "yellow", "orange", "aqua"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "green", "blue"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "copper", "bronze", "bluish-white", "brilliant green", "yellow", "orange", "aqua", "charcoal", "gray", "reddish gray", "greenish gray", "bluish gray", "pinkish gray", "yellowish gray", "shimmering, multicolored"]
+            }
+        ]
+    },
+    {
+        "name": "genasi",
+        "matures": 18,
+        "dies": 120,
+        "subraces": [
+            {
+                "name": "name",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel", "blue", "green", "gray"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white"],
+                "skinColors": ["red"]
+            },
+            {
+                "name": "water",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel", "blue", "green", "gray"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white"],
+                "skinColors": ["green"]
+            },
+            {
+                "name": "earth",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel", "blue", "green", "gray"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white"],
+                "skinColors": ["gray"]
+            },
+            {
+                "name": "air",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel", "blue", "green", "gray"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white"],
+                "skinColors": ["blue"]
+            }
+        ]
+    }
+]

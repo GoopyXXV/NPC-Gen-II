@@ -1,2 +1,51 @@
 # NPC Generator II
 Generates a random D&D NPC with a ludicrous amount of detail. Height, weight, age, eye color... History!! *Everything!!*
+## Races Implemented:
+9.5/48
+- Aarakocra ✔
+- Aasimar ✔
+- Autognome ✔
+- Bugbear ✔
+- Centaur ✔
+- Changling
+- Dragonborn ✔
+- Dwarf ✔
+- Elf ✔ (Partially)
+- Fairy ✔
+- Firbolg
+- Genasi ✔
+- Giff
+- Gith
+- Gnome
+- Goblin
+- Goliath
+- Grung
+- Hadozee
+- Half-Elf
+- Half-Orc
+- Halfling
+- Harengon
+- Hobgoblin
+- Human
+- Kalashtar
+- Kender
+- Kenku
+- Kobold
+- Leonin
+- Lizardfolk
+- Locathah
+- Loxodon
+- Minotaur
+- Orc
+- Owlin
+- Plasmoid
+- Satyr
+- Shifter
+- Simic Hybrid
+- Tabaxi
+- Thri-kreen
+- Tiefling
+- Tortle
+- Veldalken
+- Warforged
+- Yuan-Ti Pureblood
