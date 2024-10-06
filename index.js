@@ -7,7 +7,6 @@ import { DiceRoll } from "@dice-roller/rpg-dice-roller";
 function getRace() {
     let randomRaceIndex = Math.floor(Math.random() * races.length);
     let race = races[randomRaceIndex]
-    console.log(race.name);
     let age = Math.floor(Math.random() * race.dies);
     let subrace = race.subraces[Math.floor(Math.random() * race.subraces.length)];
     let eyeColor = subrace.eyeColors[Math.floor(Math.random() * subrace.eyeColors.length)];
@@ -30,7 +29,6 @@ function getRace() {
         Weight: ${weight} lb.
         `
     );
-    // console.log(hgtMod)
 }
 
 getRace();
