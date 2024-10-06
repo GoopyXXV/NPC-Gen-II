@@ -1,7 +1,7 @@
 # NPC Generator II
 Generates a random D&D NPC with a ludicrous amount of detail. Height, weight, age, eye color... History!! *Everything!!*
 ## Races Implemented:
-9.5/48
+11.5/48
 - Aarakocra ✔
 - Aasimar ✔
 - Autognome ✔
