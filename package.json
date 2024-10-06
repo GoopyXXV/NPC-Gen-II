@@ -1,0 +1,15 @@
+{
+  "name": "npc_gen_ii",
+  "version": "1.0.0",
+  "description": "makes a random NPC for D&D",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rayce Lee",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
