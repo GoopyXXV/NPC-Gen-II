@@ -452,5 +452,1123 @@
                 "skinColors": ["blue"]
             }
         ]
+    },
+    {
+        "name": "giff",
+        "matures": 18,
+        "dies": 73,
+        "subraces": [
+            {
+                "name": "giff",
+                "baseHgt": 78,
+                "hgtMod": "2d8",
+                "baseWgt": 400,
+                "wgtMod": "2d8",
+                "eyeColors": ["brown"],
+                "hairColors": ["black"],
+                "skinColors": ["grayish pink"]
+            }
+        ]
+    },
+    {
+        "name": "gith",
+        "matures": 18,
+        "dies": 73,
+        "subraces": [
+            {
+                "name": "githyanki",
+                "baseHgt": 60,
+                "hgtMod": "2d12",
+                "baseWgt": 100,
+                "wgtMod": "2d4",
+                "eyeColors": ["black"],
+                "hairColors": ["black", "red"],
+                "skinColors": ["yellow"]
+            },
+            {
+                "name": "githzerai",
+                "baseHgt": 59,
+                "hgtMod": "2d12",
+                "baseWgt": 90,
+                "wgtMod": "1d4",
+                "eyeColors": ["black"],
+                "hairColors": ["black", "red"],
+                "skinColors": ["yellow"]
+            }
+        ]
+    },
+    {
+        "name": "gnome",
+        "matures": 18,
+        "dies": 425,
+        "subraces": [
+            {
+                "name": "forest gnome",
+                "baseHgt": 35,
+                "hgtMod": "2d4",
+                "baseWgt": 35,
+                "wgtMod": "1d1",
+                "eyeColors": ["turquoise", "glittering blue", "glittering black", "brown", "hazel", "amber", "blue", "green", "gray"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate"]
+            },
+            {
+                "name": "rock gnome",
+                "baseHgt": 35,
+                "hgtMod": "2d4",
+                "baseWgt": 35,
+                "wgtMod": "1d1",
+                "eyeColors": ["turquoise", "glittering blue", "glittering black", "brown", "hazel", "amber", "blue", "green", "gray"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate"]
+            },
+            {
+                "name": "deep gnome",
+                "baseHgt": 35,
+                "hgtMod": "2d4",
+                "baseWgt": 35,
+                "wgtMod": "1d1",
+                "eyeColors": ["dark gray"],
+                "hairColors": ["gray"],
+                "skinColors": ["gray"]
+            }
+        ]
+    },
+    {
+        "name": "goblin",
+        "matures": 8,
+        "dies": 60,
+        "subraces": [
+            {
+                "name": "goblin",
+                "baseHgt": 31,
+                "hgtMod": "2d4",
+                "baseWgt": 35,
+                "wgtMod": "1d1",
+                "eyeColors": ["red", "yellow"],
+                "hairColors": ["black"],
+                "skinColors": ["yellow", "amber", "orange", "deep red", "yellow-green", "green"]
+            }
+        ]
+    },
+    {
+        "name": "goliath",
+        "matures": 18,
+        "dies": 73,
+        "subraces": [
+            {
+                "name": "goliath",
+                "baseHgt": 74,
+                "hgtMod": "2d10",
+                "baseWgt": 200,
+                "wgtMod": "2d6",
+                "eyeColors": ["blue", "green", "luminous blue", "luminous green"],
+                "hairColors": ["black"],
+                "skinColors": ["gray", "brown", "muted brown", "muted tan"]
+            }
+        ]
+    },
+    {
+        "name": "grung",
+        "matures": 1,
+        "dies": 50,
+        "subraces": [
+            {
+                "name": "grung",
+                "baseHgt": 24,
+                "hgtMod": "1d12",
+                "baseWgt": 23,
+                "wgtMod": "1d1",
+                "eyeColors": ["dark brown", "red"],
+                "hairColors": ["none"],
+                "skinColors": ["green", "purple", "blue", "red", "orange", "gold"]
+            }
+        ]
+    },
+    {
+        "name": "hadozee",
+        "matures": 18,
+        "dies": 73,
+        "subraces": [
+            {
+                "name": "small hadozee",
+                "baseHgt": 31,
+                "hgtMod": "2d4",
+                "baseWgt": 35,
+                "wgtMod": "1d1",
+                "eyeColors": ["black"],
+                "hairColors": ["medium brown", "dark brown", "black", "reddish-brown", "gray", "white"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate"]
+            },
+            {
+                "name": "medium hadozee",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["black"],
+                "hairColors": ["medium brown", "dark brown", "black", "reddish-brown", "gray", "white"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate"]
+            }
+        ]
+    },
+    {
+        "name": "half-elf",
+        "matures": 18,
+        "dies": 180,
+        "subraces": [
+            {
+                "name": "half-elf",
+                "baseHgt": 57,
+                "hgtMod": "2d8",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel", "blue", "green", "gray", "gold", "silver", "black", "copper", "blue with golden flecks", "green with golden flecks", "red", "sky blue", "lilac", "pink", "silver", "rose"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "green", "blue"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate"]
+            }
+        ]
+    },
+    {
+        "name": "half-orc",
+        "matures": 14,
+        "dies": 75,
+        "subraces": [
+            {
+                "name": "half-orc",
+                "baseHgt": 58,
+                "hgtMod": "2d10",
+                "baseWgt": 140,
+                "wgtMod": "2d6",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel", "blue", "green", "gray", "reddish"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white"],
+                "skinColors": ["muted porcelain", "muted ivory", "muted beige", "muted natural", "muted sienna", "muted honey", "muted almond", "muted amber", "muted umber", "muted golden", "muted espresso", "muted chocolate", "gray"]
+            }
+        ]
+    },
+    {
+        "name": "halfling",
+        "matures": 20,
+        "dies": 250,
+        "subraces": [
+            {
+                "name": "lightfoot",
+                "baseHgt": 31,
+                "hgtMod": "2d4",
+                "baseWgt": 35,
+                "wgtMod": "1d1",
+                "eyeColors": ["brown", "hazel"],
+                "hairColors": ["brown", "sandy brown"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber"]
+            },
+            {
+                "name": "strongheart",
+                "baseHgt": 31,
+                "hgtMod": "2d4",
+                "baseWgt": 35,
+                "wgtMod": "1d1",
+                "eyeColors": ["blue", "green"],
+                "hairColors": ["brown", "sandy brown"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber"]
+            }
+        ]
+    },
+    {
+        "name": "harengon",
+        "matures": 18,
+        "dies": 73,
+        "subraces": [
+            {
+                "name": "small harengon",
+                "baseHgt": 31,
+                "hgtMod": "2d4",
+                "baseWgt": 35,
+                "wgtMod": "1d1",
+                "eyeColors": ["dark brown", "brown", "amber", "blue", "gray"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white"],
+                "skinColors": ["pale"]
+            },
+            {
+                "name": "medium harengon",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown", "amber", "blue", "gray"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white"],
+                "skinColors": ["pale"]
+            }
+        ]
+    },
+    {
+        "name": "hobgoblin",
+        "matures": 18,
+        "dies": 73,
+        "subraces": [
+            {
+                "name": "hobgoblin",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["orange"],
+                "hairColors": ["dark brown", "dark gray", "orange", "red"],
+                "skinColors": ["orange", "reddish-brown"]
+            }
+        ]
+    },
+    {
+        "name": "human",
+        "matures": 18,
+        "dies": 73,
+        "subraces": [
+            {
+                "name": "calishite",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown", "amber"],
+                "hairColors": ["medium brown", "dark brown", "gray", "white"],
+                "skinColors": ["umber", "golden", "espresso"]
+            },
+            {
+                "name": "chondathan",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["green", "brown", "dark brown", "amber"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "gray", "white"],
+                "skinColors": ["honey"]
+            },
+            {
+                "name": "damaran",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel", "blue", "green", "gray"],
+                "hairColors": ["medium brown", "dark brown", "black", "gray", "white"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey"]
+            },
+            {
+                "name": "illuskan",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["blue", "gray"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural"]
+            },
+            {
+                "name": "mulan",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel"],
+                "hairColors": ["medium brown", "dark brown", "black", "gray", "white"],
+                "skinColors": ["sienna", "honey", "almond"]
+            },
+            {
+                "name": "rashemi",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown"],
+                "hairColors": ["black", "gray", "white"],
+                "skinColors": ["umber", "golden", "espresso"]
+            },
+            {
+                "name": "shou",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown"],
+                "hairColors": ["black", "gray", "white"],
+                "skinColors": ["almond", "amber", "umber", "golden"]
+            },
+            {
+                "name": "tethyrian",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel", "blue", "green", "gray"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso"]
+            },
+            {
+                "name": "turami",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel", "blue", "green", "gray"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate"]
+            },
+            {
+                "name": "arkaiun",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel", "blue", "green", "gray"],
+                "hairColors": ["medium brown", "dark brown", "black", "gray", "white"],
+                "skinColors": ["honey", "almond", "amber", "umber"]
+            },
+            {
+                "name": "bedine",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel", "blue", "green", "gray"],
+                "hairColors": ["dark brown", "black", "gray", "white"],
+                "skinColors": ["almond", "amber", "umber", "golden", "espresso", "chocolate"]
+            },
+            {
+                "name": "ffolk",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel", "blue", "green", "gray"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso"]
+            },
+            {
+                "name": "gur",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown"],
+                "hairColors": ["black", "gray", "white"],
+                "skinColors": ["umber", "golden", "espresso"]
+            },
+            {
+                "name": "halruaan",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel", "green"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "gray", "white"],
+                "skinColors": ["beige", "natural", "sienna"]
+            },
+            {
+                "name": "imaskari",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel"],
+                "hairColors": ["gray", "white"],
+                "skinColors": ["porcelain", "ivory", "beige"]
+            },
+            {
+                "name": "nar",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown", "black"],
+                "hairColors": ["black", "gray", "white"],
+                "skinColors": ["honey", "almond", "amber", "umber"]
+            },
+            {
+                "name": "shaaran",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel", "blue", "green", "gray"],
+                "hairColors": ["dark brown", "black", "gray", "white"],
+                "skinColors": ["honey", "almond", "amber", "umber"]
+            },
+            {
+                "name": "tuigan",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown"],
+                "hairColors": ["dark brown", "black", "gray", "white"],
+                "skinColors": ["amber", "umber", "golden", "espresso"]
+            },
+            {
+                "name": "ulutuin",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel", "blue", "green", "gray"],
+                "hairColors": ["dark brown", "black", "gray", "white"],
+                "skinColors": ["umber", "golden", "espresso"]
+            }
+        ]
+    },
+    {
+        "name": "kalashtar",
+        "matures": 18,
+        "dies": 73,
+        "subraces": [
+            {
+                "name": "kalashtar",
+                "baseHgt": 64,
+                "hgtMod": "2d6",
+                "baseWgt": 110,
+                "wgtMod": "1d6",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel", "blue", "green", "gray"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate"]
+            }
+        ]
+    },
+    {
+        "name": "kenku",
+        "matures": 12,
+        "dies": 60,
+        "subraces": [
+            {
+                "name": "kenku",
+                "baseHgt": 52,
+                "hgtMod": "2d8",
+                "baseWgt": 50,
+                "wgtMod": "1d6",
+                "eyeColors": ["black", "blue", "gray", "dark brown", "white"],
+                "hairColors": ["black"],
+                "skinColors": ["pink"]
+            }
+        ]
+    },
+    {
+        "name": "kobold",
+        "matures": 6,
+        "dies": 120,
+        "subraces": [
+            {
+                "name": "kobold",
+                "baseHgt": 31,
+                "hgtMod": "2d4",
+                "baseWgt": 35,
+                "wgtMod": "1d1",
+                "eyeColors": ["orange", "red-orange", "red"],
+                "hairColors": ["none"],
+                "skinColors": ["brown", "reddish brown", "scarlet", "dark brown", "charcoal"]
+            }
+        ]
+    },
+    {
+        "name": "leonin",
+        "matures": 18,
+        "dies": 73,
+        "subraces": [
+            {
+                "name": "leonin",
+                "baseHgt": 78,
+                "hgtMod": "2d10",
+                "baseWgt": 180,
+                "wgtMod": "2d6",
+                "eyeColors": ["amber"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "gold"],
+                "skinColors": ["natural"]
+            }
+        ]
+    },
+    {
+        "name": "lizardfolk",
+        "matures": 14,
+        "dies": 60,
+        "subraces": [
+            {
+                "name": "lizardfolk",
+                "baseHgt": 57,
+                "hgtMod": "2d10",
+                "baseWgt": 120,
+                "wgtMod": "2d6",
+                "eyeColors": ["yellow"],
+                "hairColors": ["none"],
+                "skinColors": ["green", "black", "gray", "brown", "forest green", "dark brown", "sage", "dark sage", "tan"]
+            }
+        ]
+    },
+    {
+        "name": "locathah",
+        "matures": 10,
+        "dies": 80,
+        "subraces": [
+            {
+                "name": "locathah",
+                "baseHgt": 64,
+                "hgtMod": "2d6",
+                "baseWgt": 110,
+                "wgtMod": "1d6",
+                "eyeColors": ["black", "white", "yellow"],
+                "hairColors": ["none"],
+                "skinColors": ["yellow-green", "ochre", "olive green", "greenish brown", "bluish green", "brown"]
+            }
+        ]
+    },
+    {
+        "name": "loxodon",
+        "matures": 18,
+        "dies": 450,
+        "subraces": [
+            {
+                "name": "loxodon",
+                "baseHgt": 77,
+                "hgtMod": "2d10",
+                "baseWgt": 295,
+                "wgtMod": "2d4",
+                "eyeColors": ["green", "color2"],
+                "hairColors": ["color1", "color2"],
+                "skinColors": ["white", "light green", "muted green", "light gray"]
+            }
+        ]
+    },
+    {
+        "name": "minotaur",
+        "matures": 18,
+        "dies": 73,
+        "subraces": [
+            {
+                "name": "minotaur",
+                "baseHgt": 64,
+                "hgtMod": "2d8",
+                "baseWgt": 175,
+                "wgtMod": "2d6",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel", "blue", "green", "gray", "black"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white"],
+                "skinColors": ["muted brown", "brown", "pale", "tan", "pink"]
+            }
+        ]
+    },
+    {
+        "name": "orc",
+        "matures": 12,
+        "dies": 50,
+        "subraces": [
+            {
+                "name": "orc",
+                "baseHgt": 64,
+                "hgtMod": "2d8",
+                "baseWgt": 175,
+                "wgtMod": "2d6",
+                "eyeColors": ["reddish"],
+                "hairColors": ["black", "gray", "white"],
+                "skinColors": ["grayish"]
+            }
+        ]
+    },
+    {
+        "name": "owlin",
+        "matures": 18,
+        "dies": 73,
+        "subraces": [
+            {
+                "name": "small owlin",
+                "baseHgt": 31,
+                "hgtMod": "2d4",
+                "baseWgt": 35,
+                "wgtMod": "1d1",
+                "eyeColors": ["black", "dark brown", "brown", "amber", "orange", "red-orange", "yellow"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "gray", "white"],
+                "skinColors": ["pink"]
+            },
+            {
+                "name": "medium owlin",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["black", "dark brown", "brown", "amber", "orange", "red-orange", "yellow"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "gray", "white"],
+                "skinColors": ["pink"]
+            }
+        ]
+    },
+    {
+        "name": "plasmoid",
+        "matures": 18,
+        "dies": 73,
+        "subraces": [
+            {
+                "name": "small plasmoid",
+                "baseHgt": 31,
+                "hgtMod": "2d4",
+                "baseWgt": 35,
+                "wgtMod": "1d1",
+                "eyeColors": ["none"],
+                "hairColors": ["none"],
+                "skinColors": ["translucent gray", "translucent red", "translucent red-orange", "translucent orange", "translucent yellow-orange", "translucent yellow", "translucent yellow-green", "translucent green", "translucent teal", "translucent blue", "translucent indigo", "translucent purple", "translucent magenta", "translucent pink", "translucent brown", "translucent black"]
+            },
+            {
+                "name": "medium plasmoid",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["none"],
+                "hairColors": ["none"],
+                "skinColors": ["translucent gray", "translucent red", "translucent red-orange", "translucent orange", "translucent yellow-orange", "translucent yellow", "translucent yellow-green", "translucent green", "translucent teal", "translucent blue", "translucent indigo", "translucent purple", "translucent magenta", "translucent pink", "translucent brown", "translucent black"]
+            }
+        ]
+    },
+    {
+        "name": "satyr",
+        "matures": 18,
+        "dies": 73,
+        "subraces": [
+            {
+                "name": "satyr",
+                "baseHgt": 56,
+                "hgtMod": "2d8",
+                "baseWgt": 100,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel", "blue", "green", "gray"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate"]
+            }
+        ]
+    },
+    {
+        "name": "shifter",
+        "matures": 10,
+        "dies": 70,
+        "subraces": [
+            {
+                "name": "beasthide",
+                "baseHgt": 54,
+                "hgtMod": "2d8",
+                "baseWgt": 90,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown", "amber", "black"],
+                "hairColors": ["black", "brown", "dark brown", "white", "gray"],
+                "skinColors": ["muted brown", "grayish", "pink", "grayish tan", "dark gray", "muted pink"]
+            },
+            {
+                "name": "longtooth",
+                "baseHgt": 54,
+                "hgtMod": "2d8",
+                "baseWgt": 90,
+                "wgtMod": "2d4",
+                "eyeColors": ["yellow", "blue", "gray", "brown", "dark brown", "white", "green", "hazel", "yellow", "orange", "copper"],
+                "hairColors": ["brown", "gray", "muted brown", "black", "white", "blond", "dark blond", "medium brown", "dark brown"],
+                "skinColors": ["muted brown", "grayish", "pink", "grayish tan", "dark gray", "muted pink"]
+            },
+            {
+                "name": "swiftstride",
+                "baseHgt": 54,
+                "hgtMod": "2d8",
+                "baseWgt": 90,
+                "wgtMod": "2d4",
+                "eyeColors": ["blue", "green", "hazel", "yellow", "orange", "copper"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "white", "gray"],
+                "skinColors": ["muted brown", "grayish", "pink", "grayish tan", "dark gray", "muted pink"]
+            },
+            {
+                "name": "wildhunt",
+                "baseHgt": 54,
+                "hgtMod": "2d8",
+                "baseWgt": 90,
+                "wgtMod": "2d4",
+                "eyeColors": ["yellow", "blue", "gray", "brown", "dark brown", "white", "green", "hazel", "yellow", "orange", "copper"],
+                "hairColors": ["brown", "gray", "muted brown", "black", "white", "blond", "dark blond", "medium brown", "dark brown"],
+                "skinColors": ["muted brown", "grayish", "pink", "grayish tan", "dark gray", "muted pink"]
+            }
+        ]
+    },
+    {
+        "name": "simic hybrid",
+        "matures": 18,
+        "dies": 73,
+        "subraces": [
+            {
+                "name": "simic hybrid",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown", "amber", "hazel", "blue", "green", "gray", "white", "yellow", "orange", "red", "purple", "magenta", "rose"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "none", "orange", "yellow", "green", "teal", "blue", "indigo", "purple", "magenta"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "white", "charcoal", "gray", "yellow-green", "ochre", "olive green", "greenish brown", "bluish green", "brown"]
+            }
+        ]
+    },
+    {
+        "name": "tabaxi",
+        "matures": 18,
+        "dies": 73,
+        "subraces": [
+            {
+                "name": "tabaxi",
+                "baseHgt": 56,
+                "hgtMod": "2d10",
+                "baseWgt": 90,
+                "wgtMod": "2d4",
+                "eyeColors": ["blue", "green", "hazel", "yellow", "orange", "copper"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "gold"],
+                "skinColors": ["natural"]
+            }
+        ]
+    },
+    {
+        "name": "thri-kreen",
+        "matures": 5,
+        "dies": 35,
+        "subraces": [
+            {
+                "name": "small thri-kreen",
+                "baseHgt": 31,
+                "hgtMod": "2d4",
+                "baseWgt": 35,
+                "wgtMod": "1d1",
+                "eyeColors": ["color1", "color2"],
+                "hairColors": ["none"],
+                "skinColors": [
+                    "red", "red-orange", "orange", "orange-yellow", "yellow", "yellow-green", "green", "cyan", "cerulean", "blue", "indigo", "purple", "magenta", "rose",
+                    "pink", "peach", "cream", "buff", "canary", "light yellow-green", "light green", "light cyan", "sky blue", "light blue", "light indigo", "lavender", "hot pink", "light rose",
+                    "scarlet", "red ochre", "brown", "yellow ochre", "olive", "forest green", "emerald green", "teal", "dark cerulean", "navy blue", "dark indigo", "eggplant", "amaranth", "sanguine",
+                    "russet", "muted red-orange", "tan", "muted orange-yellow", "muted yellow", "muted yellow-green", "sage", "muted cyan", "muted cerulean", "slate", "muted indigo", "mauve", "muted magenta"
+                ]
+            },
+            {
+                "name": "medium thri-kreen",
+                "baseHgt": 52,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["color1", "color2"],
+                "hairColors": ["none"],
+                "skinColors": [
+                    "red", "red-orange", "orange", "orange-yellow", "yellow", "yellow-green", "green", "cyan", "cerulean", "blue", "indigo", "purple", "magenta", "rose",
+                    "pink", "peach", "cream", "buff", "canary", "light yellow-green", "light green", "light cyan", "sky blue", "light blue", "light indigo", "lavender", "hot pink", "light rose",
+                    "scarlet", "red ochre", "brown", "yellow ochre", "olive", "forest green", "emerald green", "teal", "dark cerulean", "navy blue", "dark indigo", "eggplant", "amaranth", "sanguine",
+                    "russet", "muted red-orange", "tan", "muted orange-yellow", "muted yellow", "muted yellow-green", "sage", "muted cyan", "muted cerulean", "slate", "muted indigo", "mauve", "muted magenta"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "tiefling",
+        "matures": 18,
+        "dies": 76,
+        "subraces": [
+            {
+                "name": "asmodeus",
+                "baseHgt": 57,
+                "hgtMod": "2d8",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["all black", "all red", "all white", "all silver", "all gold"],
+                "hairColors": ["medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "blue", "purple"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "red", "pink", "scarlet", "russet"]
+            },
+            {
+                "name": "baalzebul",
+                "baseHgt": 57,
+                "hgtMod": "2d8",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["all black", "all red", "all white", "all silver", "all gold"],
+                "hairColors": ["medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "blue", "purple"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "red", "pink", "scarlet", "russet"]
+            },
+            {
+                "name": "dispater",
+                "baseHgt": 57,
+                "hgtMod": "2d8",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["all black", "all red", "all white", "all silver", "all gold"],
+                "hairColors": ["medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "blue", "purple"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "red", "pink", "scarlet", "russet"]
+            },
+            {
+                "name": "fierna",
+                "baseHgt": 57,
+                "hgtMod": "2d8",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["all black", "all red", "all white", "all silver", "all gold"],
+                "hairColors": ["medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "blue", "purple"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "red", "pink", "scarlet", "russet"]
+            },
+            {
+                "name": "glasya",
+                "baseHgt": 57,
+                "hgtMod": "2d8",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["all black", "all red", "all white", "all silver", "all gold"],
+                "hairColors": ["medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "blue", "purple"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "red", "pink", "scarlet", "russet"]
+            },
+            {
+                "name": "levistus",
+                "baseHgt": 57,
+                "hgtMod": "2d8",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["all black", "all red", "all white", "all silver", "all gold"],
+                "hairColors": ["medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "blue", "purple"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "red", "pink", "scarlet", "russet"]
+            },
+            {
+                "name": "mammon",
+                "baseHgt": 57,
+                "hgtMod": "2d8",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["all black", "all red", "all white", "all silver", "all gold"],
+                "hairColors": ["medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "blue", "purple"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "red", "pink", "scarlet", "russet"]
+            },
+            {
+                "name": "mephistopheles",
+                "baseHgt": 57,
+                "hgtMod": "2d8",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["all black", "all red", "all white", "all silver", "all gold"],
+                "hairColors": ["medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "blue", "purple"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "red", "pink", "scarlet", "russet"]
+            },
+            {
+                "name": "zariel",
+                "baseHgt": 57,
+                "hgtMod": "2d8",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["all black", "all red", "all white", "all silver", "all gold"],
+                "hairColors": ["medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "blue", "purple"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "red", "pink", "scarlet", "russet"]
+            },
+            {
+                "name": "variant---appearance",
+                "baseHgt": 57,
+                "hgtMod": "2d8",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["all black", "all red", "all white", "all silver", "all gold", "blue, cat-like", "green, cat-like", "hazel, cat-like", "yellow, cat-like", "orange, cat-like", "copper, cat-like"],
+                "hairColors": ["medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "blue", "purple"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "red", "pink", "scarlet", "russet", "dark blue"]
+            },
+            {
+                "name": "variant---feral",
+                "baseHgt": 57,
+                "hgtMod": "2d8",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["all black", "all red", "all white", "all silver", "all gold"],
+                "hairColors": ["medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "blue", "purple"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "red", "pink", "scarlet", "russet"]
+            },
+            {
+                "name": "variant---appearance and feral",
+                "baseHgt": 57,
+                "hgtMod": "2d8",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["all black", "all red", "all white", "all silver", "all gold", "blue, cat-like", "green, cat-like", "hazel, cat-like", "yellow, cat-like", "orange, cat-like", "copper, cat-like"],
+                "hairColors": ["medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "blue", "purple"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "red", "pink", "scarlet", "russet", "dark blue"]
+            },
+            {
+                "name": "variant---hellfire",
+                "baseHgt": 57,
+                "hgtMod": "2d8",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["all black", "all red", "all white", "all silver", "all gold"],
+                "hairColors": ["medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "blue", "purple"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "red", "pink", "scarlet", "russet"]
+            },
+            {
+                "name": "variant---hellfire and appearance",
+                "baseHgt": 57,
+                "hgtMod": "2d8",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["all black", "all red", "all white", "all silver", "all gold", "blue, cat-like", "green, cat-like", "hazel, cat-like", "yellow, cat-like", "orange, cat-like", "copper, cat-like"],
+                "hairColors": ["medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "blue", "purple"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "red", "pink", "scarlet", "russet", "dark blue"]
+            },
+            {
+                "name": "variant---hellfire and feral",
+                "baseHgt": 57,
+                "hgtMod": "2d8",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["all black", "all red", "all white", "all silver", "all gold"],
+                "hairColors": ["medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "blue", "purple"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "red", "pink", "scarlet", "russet"]
+            },
+            {
+                "name": "variant---hellfire, appearance and feral",
+                "baseHgt": 57,
+                "hgtMod": "2d8",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["all black", "all red", "all white", "all silver", "all gold", "blue, cat-like", "green, cat-like", "hazel, cat-like", "yellow, cat-like", "orange, cat-like", "copper, cat-like"],
+                "hairColors": ["medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "blue", "purple"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "red", "pink", "scarlet", "russet", "dark blue"]
+            },
+            {
+                "name": "variant---devil's tongue",
+                "baseHgt": 57,
+                "hgtMod": "2d8",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["all black", "all red", "all white", "all silver", "all gold"],
+                "hairColors": ["medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "blue", "purple"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "red", "pink", "scarlet", "russet"]
+            },
+            {
+                "name": "variant---devil's tongue and appearance",
+                "baseHgt": 57,
+                "hgtMod": "2d8",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["all black", "all red", "all white", "all silver", "all gold", "blue, cat-like", "green, cat-like", "hazel, cat-like", "yellow, cat-like", "orange, cat-like", "copper, cat-like"],
+                "hairColors": ["medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "blue", "purple"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "red", "pink", "scarlet", "russet", "dark blue"]
+            },
+            {
+                "name": "variant---devil's tongue and feral",
+                "baseHgt": 57,
+                "hgtMod": "2d8",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["all black", "all red", "all white", "all silver", "all gold"],
+                "hairColors": ["medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "blue", "purple"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "red", "pink", "scarlet", "russet"]
+            },
+            {
+                "name": "variant---devil's tongue, appearance and feral",
+                "baseHgt": 57,
+                "hgtMod": "2d8",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["all black", "all red", "all white", "all silver", "all gold", "blue, cat-like", "green, cat-like", "hazel, cat-like", "yellow, cat-like", "orange, cat-like", "copper, cat-like"],
+                "hairColors": ["medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "blue", "purple"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "red", "pink", "scarlet", "russet", "dark blue"]
+            },
+            {
+                "name": "variant---winged",
+                "baseHgt": 57,
+                "hgtMod": "2d8",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["all black", "all red", "all white", "all silver", "all gold"],
+                "hairColors": ["medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "blue", "purple"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "red", "pink", "scarlet", "russet"]
+            },
+            {
+                "name": "variant---winged and appearance",
+                "baseHgt": 57,
+                "hgtMod": "2d8",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["all black", "all red", "all white", "all silver", "all gold", "blue, cat-like", "green, cat-like", "hazel, cat-like", "yellow, cat-like", "orange, cat-like", "copper, cat-like"],
+                "hairColors": ["medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "blue", "purple"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "red", "pink", "scarlet", "russet", "dark blue"]
+            },
+            {
+                "name": "variant---winged and feral",
+                "baseHgt": 57,
+                "hgtMod": "2d8",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["all black", "all red", "all white", "all silver", "all gold"],
+                "hairColors": ["medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "blue", "purple"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "red", "pink", "scarlet", "russet"]
+            },
+            {
+                "name": "variant---winged, appearance and feral",
+                "baseHgt": 57,
+                "hgtMod": "2d8",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["all black", "all red", "all white", "all silver", "all gold", "blue, cat-like", "green, cat-like", "hazel, cat-like", "yellow, cat-like", "orange, cat-like", "copper, cat-like"],
+                "hairColors": ["medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white", "blue", "purple"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate", "red", "pink", "scarlet", "russet", "dark blue"]
+            }
+        ]
+    },
+    {
+        "name": "tortle",
+        "matures": 15,
+        "dies": 50,
+        "subraces": [
+            {
+                "name": "tortle",
+                "baseHgt": 59,
+                "hgtMod": "1d12",
+                "baseWgt": 415,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark brown", "brown", "black", "yellow", "green"],
+                "hairColors": ["none"],
+                "skinColors": ["olive", "olive-green", "blue-green"]
+            }
+        ]
+    },
+    {
+        "name": "veldalken",
+        "matures": 40,
+        "dies": 425,
+        "subraces": [
+            {
+                "name": "veldalken",
+                "baseHgt": 64,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["dark cerulean", "navy blue", "eggplant", "plum", "purple"],
+                "hairColors": ["none"],
+                "skinColors": ["cyan", "cerulean", "blue", "light cyan", "sky blue", "light blue", "teal", "dark cerulean", "navy blue"]
+            }
+        ]
+    },
+    {
+        "name": "warforged",
+        "matures": 0,
+        "dies": 33,
+        "subraces": [
+            {
+                "name": "warforged",
+                "baseHgt": 34,
+                "hgtMod": "2d6",
+                "baseWgt": 270,
+                "wgtMod": "4d1",
+                "eyeColors": ["red", "green", "yellow", "blue"],
+                "hairColors": ["none"],
+                "skinColors": ["steel frame", "darkwood frame", "stone frame"]
+            }
+        ]
+    },
+    {
+        "name": "yuan-ti pureblood",
+        "matures": 18,
+        "dies": 73,
+        "subraces": [
+            {
+                "name": "yuan-ti pureblood",
+                "baseHgt": 56,
+                "hgtMod": "2d10",
+                "baseWgt": 110,
+                "wgtMod": "2d4",
+                "eyeColors": ["green, serpentine"],
+                "hairColors": ["blond", "dark blond", "medium brown", "dark brown", "black", "reddish-brown", "red", "gray", "white"],
+                "skinColors": ["porcelain", "ivory", "beige", "natural", "sienna", "honey", "almond", "amber", "umber", "golden", "espresso", "chocolate"]
+            }
+        ]
     }
 ]
